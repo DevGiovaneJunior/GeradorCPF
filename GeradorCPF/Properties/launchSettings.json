@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GeradorCPF": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

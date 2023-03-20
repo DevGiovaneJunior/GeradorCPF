@@ -1,0 +1,16 @@
+C:\Users\ACT\Documents\Projects\GeradorCPF\GeradorCPF\bin\Release\net5.0\GeradorCPF.exe
+C:\Users\ACT\Documents\Projects\GeradorCPF\GeradorCPF\bin\Release\net5.0\GeradorCPF.deps.json
+C:\Users\ACT\Documents\Projects\GeradorCPF\GeradorCPF\bin\Release\net5.0\GeradorCPF.runtimeconfig.json
+C:\Users\ACT\Documents\Projects\GeradorCPF\GeradorCPF\bin\Release\net5.0\GeradorCPF.runtimeconfig.dev.json
+C:\Users\ACT\Documents\Projects\GeradorCPF\GeradorCPF\bin\Release\net5.0\GeradorCPF.dll
+C:\Users\ACT\Documents\Projects\GeradorCPF\GeradorCPF\bin\Release\net5.0\ref\GeradorCPF.dll
+C:\Users\ACT\Documents\Projects\GeradorCPF\GeradorCPF\bin\Release\net5.0\GeradorCPF.pdb
+C:\Users\ACT\Documents\Projects\GeradorCPF\GeradorCPF\obj\Release\net5.0\GeradorCPF.csproj.AssemblyReference.cache
+C:\Users\ACT\Documents\Projects\GeradorCPF\GeradorCPF\obj\Release\net5.0\GeradorCPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACT\Documents\Projects\GeradorCPF\GeradorCPF\obj\Release\net5.0\GeradorCPF.AssemblyInfoInputs.cache
+C:\Users\ACT\Documents\Projects\GeradorCPF\GeradorCPF\obj\Release\net5.0\GeradorCPF.AssemblyInfo.cs
+C:\Users\ACT\Documents\Projects\GeradorCPF\GeradorCPF\obj\Release\net5.0\GeradorCPF.csproj.CoreCompileInputs.cache
+C:\Users\ACT\Documents\Projects\GeradorCPF\GeradorCPF\obj\Release\net5.0\GeradorCPF.dll
+C:\Users\ACT\Documents\Projects\GeradorCPF\GeradorCPF\obj\Release\net5.0\ref\GeradorCPF.dll
+C:\Users\ACT\Documents\Projects\GeradorCPF\GeradorCPF\obj\Release\net5.0\GeradorCPF.pdb
+C:\Users\ACT\Documents\Projects\GeradorCPF\GeradorCPF\obj\Release\net5.0\GeradorCPF.genruntimeconfig.cache

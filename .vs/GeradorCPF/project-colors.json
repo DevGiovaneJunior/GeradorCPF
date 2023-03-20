@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a945e53d-b665-46bc-bf92-48931f60c86f": {
+      "ProjectGuid": "a945e53d-b665-46bc-bf92-48931f60c86f",
+      "DisplayName": "GeradorCPF",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
